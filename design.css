@@ -7,7 +7,7 @@ h1 { font-family: 'Cinzel Decorative', cursive;
      color: white;
      border: black solid;
      padding-left: 40px;
-
+     text-align: center;
 
 }
 
@@ -17,7 +17,10 @@ h1 { font-family: 'Cinzel Decorative', cursive;
         transform: scale(1.7);
 }
 
-p { border: white solid;
+.images { padding-left: 50px;
+}
+
+.info { border: white solid;
 	margin: 0 auto;
     flex-direction: column;
     display: flex;
@@ -25,6 +28,5 @@ p { border: white solid;
 }
 
 
-h3 {
-
+.contact { display: inline-block;	
 }
