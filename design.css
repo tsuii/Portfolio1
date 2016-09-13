@@ -1,4 +1,4 @@
-* { background: #D3D3D3;
+* { background:#9F5F9F;
 
 }
 h1 { font-family: 'Cinzel Decorative', cursive;
@@ -20,13 +20,17 @@ h1 { font-family: 'Cinzel Decorative', cursive;
 .images { padding-left: 50px;
 }
 
-.info { border: white solid;
+.info { border: red solid;
 	margin: 0 auto;
     flex-direction: column;
     display: flex;
     font-family: 'EB Garamond', serif;
+
 }
 
+p { color: white
+
+}
 
 .contact { display: inline-block;	
 }
