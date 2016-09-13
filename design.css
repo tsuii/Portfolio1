@@ -1,0 +1,30 @@
+* { background: #D3D3D3;
+
+}
+h1 { font-family: 'Cinzel Decorative', cursive;
+     background: red;
+     font-size: 50px;
+     color: white;
+     border: black solid;
+     padding-left: 40px;
+
+
+}
+
+.images:hover
+{
+        -webkit-transform: scale(1.7);
+        transform: scale(1.7);
+}
+
+p { border: white solid;
+	margin: 0 auto;
+    flex-direction: column;
+    display: flex;
+    font-family: 'EB Garamond', serif;
+}
+
+
+h3 {
+
+}
